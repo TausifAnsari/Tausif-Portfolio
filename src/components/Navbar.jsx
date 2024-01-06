@@ -69,14 +69,14 @@ const Navbar = () => {
           >
               <a href={resume} target="_blank">Resume</a>
           </li>
-          <li
+          {/* <li
             className={`${
               active === "Leetcode" ? "text-white" : "text-secondary"
             } hover:text-white text-[18px] font-medium cursor-pointer`}
 
           >
               <a href="https://leetcode.com/TausifAnsari/" target="_blank">Leetcode</a>
-          </li>
+          </li> */}
         </ul>
 
         <div className='sm:hidden flex flex-1 justify-end items-center'>

@@ -107,6 +107,11 @@ const Navbar = () => {
                   <a href={`#${nav.id}`}>{nav.title}</a>
                 </li>
               ))}
+              <li className={`${
+                active === "Resume" ? "text-white" : "text-secondary"
+                } hover:text-white text-[16px] font-poppins font-medium cursor-pointer`}>
+              <a href={resume} target="_blank">Resume</a>
+            </li>
             </ul>
           </div>
         </div>

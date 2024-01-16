@@ -136,7 +136,7 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Graduate Assistant (Application Developer)",
+    title: "Graduate Programming Assistant (Application Developer)",
     company_name: "Texas A&M University",
     icon: TAMUSA,
     iconBg: "#FDFBFB",

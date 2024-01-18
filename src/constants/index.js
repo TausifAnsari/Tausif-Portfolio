@@ -146,7 +146,7 @@ const experiences = [
       "Integrated Google Maps JavaScript API and Google Maps Distance Matrix API to enhance the application's functionality.",
       "Containerized the web application using Docker, reducing environment setup time by nearly 80%.",
       "Designed and maintained SQL Server databases, ensuring data integrity, security, and optimal performance.",
-      "Managed version control using tools like Git and facilitated deployment processes for applications in production environments.",
+      "Leveraged GIT for version control, ensuring effective change tracking and team collaboration, Created and developed continuous integration and delivery (CI/CD) pipelines using Jenkins, Azure DevOps.",
     ],
   },
   {
@@ -159,9 +159,11 @@ const experiences = [
       "Successfully developed and launched a new feature that increased user engagement by 30%",
       "Worked as analyzing, designing, proposing, and delivering solutions that are appropriate for the business and technology strategies. Worked on Spring MVC, ASP.NET Core MVC Architecture for web applications.",
       "Developed and maintained scalable and efficient web applications using Java, C#, Spring, Springboot, Hibernate, JPA, ASP.NET Core, Entity Framework Core, Javascript, React.",
+      "Implemented Spring Boot caching mechanisms, resulting in a 32\% reduction in database queries for frequently accessed data.",
+      "Implemented lazy loading for React components, resulting in a 24\% reduction in initial page load time for a data-intensive dashboard.",
       "Created and maintained database schemas using Hibernate, JPA, EF Core optimizing performance and ensuring data integrity. Used Hibernate and Entity Framewok Core ORM framework as persistence engine, configured O/R mapping.",
       "Implemented React functional components with Hooks to manage state, side effects, and context, ensuring a streamlined and efficient data flow within the application. Utilized Axios library to make asynchronous HTTP requests and handle API integration within React applications.",
-      "Deployed and managed Azure App Service-based web apps and APIs with CI/CD, auto-scaling, and monitoring; secured data in Azure Key Vault. Utilized Azure DevOps for agile CI/CD, leveraging Azure Functions for scalable, serverless solutions.",
+      "Deployed and managed Azure App Service-based web apps and APIs with CI/CD, auto-scaling, and monitoring. Utilized Azure DevOps for agile CI/CD and Configured the build and deployment pipelines using Azure DevOps, contributing to an efficient and automated DevOps workflow.",
     ],
   },
   {
@@ -272,6 +274,6 @@ const projects = [
   },
 ];
 
-const resume = "https://drive.google.com/file/d/164d3Nqq-gMnsruAGRe3uTBKsTGoeYzbR/view?usp=sharing"
+const resume = "https://drive.google.com/file/d/1Y1-F9LTL-WcdmX3X05-rIUAWpe7JzEnT/view?usp=sharing"
 
 export { services, technologies, experiences, testimonials, projects, resume };

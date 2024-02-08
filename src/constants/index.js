@@ -154,7 +154,7 @@ const experiences = [
     company_name: "Tata Consultancy Services",
     icon: TCS,
     iconBg: "#FFFFFF",
-    date: "December 2019 - April 2020",
+    date: "June 2021 - August 2022",
     points: [
       "Successfully developed and launched a new feature that increased user engagement by 30%",
       "Worked as analyzing, designing, proposing, and delivering solutions that are appropriate for the business and technology strategies. Worked on Spring MVC, ASP.NET Core MVC Architecture for web applications.",
@@ -171,7 +171,7 @@ const experiences = [
     company_name: "Crio.Do",
     icon: Crio,
     iconBg: "#2df7c5",
-    date: "June 2021 - August 2022",
+    date: "December 2019 - April 2020",
     points: [
       "Engineered a robust review mechanism leveraging Facebook, Pinterest, and Clarifai APIs, enhancing user interaction and experience within the food delivery application.",
       "Designed and implemented a secure file sharing platform, delving into new technologies such as shell scripting and computer networking to ensure top-notch data protection and seamless sharing capabilities.",

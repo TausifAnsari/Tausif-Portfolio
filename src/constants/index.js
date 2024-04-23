@@ -274,6 +274,6 @@ const projects = [
   },
 ];
 
-const resume = "https://drive.google.com/file/d/1nsf8IN-cSvSGEY5pQM5zwDQybKdSovSm/view?usp=sharing"
+const resume = "https://drive.google.com/file/d/1UEE8yFH0TYfSK0JXpWDLTT0wgXX-RMMO/view?usp=sharing"
 
 export { services, technologies, experiences, testimonials, projects, resume };

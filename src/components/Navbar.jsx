@@ -67,7 +67,7 @@ const Navbar = () => {
             } hover:text-white text-[18px] font-medium cursor-pointer`}
 
           >
-              <a href={resume} target="_blank">Resume</a>
+              <a href={resume} target="_blank" rel="noopener noreferrer">Resume</a>
           </li>
           {/* <li
             className={`${

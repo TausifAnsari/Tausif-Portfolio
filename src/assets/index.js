@@ -39,6 +39,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import fdoh from "./company/fdoh.png"
 import TAMUSA from "./company/TAMUSA.png";
 import TCS from "./company/TCS.png";
 import Crio from "./company/Crio.png"
@@ -90,5 +91,6 @@ export {
   csharp,
   mygithub,
   techshop,
-  campus
+  campus,
+  fdoh
 };

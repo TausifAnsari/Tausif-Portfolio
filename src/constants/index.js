@@ -37,7 +37,8 @@ import {
   csharp,
   mygithub,
   techshop,
-  campus
+  campus,
+  fdoh
 } from "../assets";
 
 // template id - template_hyen908
@@ -136,11 +137,34 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Graduate Programming Assistant (Application Developer)",
+    title: "Full Stack Web Application Developer",
+    company_name: "Florida Department of Health",
+    icon: fdoh,
+    iconBg: "#FDFBFB",
+    date: "August 2024 - present",
+    points: [
+      "Designed and developed scalable web applications using ASP.NET Core MVC, Web API, and React, enhancing performance and usability.",
+      "Translated Figma designs into responsive, user-friendly web interfaces using React and TypeScript, ensuring seamless user experiences.",
+      "Designed and optimized SQL Server databases, including complex stored procedures and query optimizations, reducing database query response times by 40%.",
+      "Improved page load speeds by 35% by implementing lazy loading and dynamic bundling techniques.",
+      // "Managed software build and release pipelines using Azure DevOps, ensuring seamless integration and automated deployments.",
+      // "Deployed applications to both on-premises servers and cloud platforms using Azure App Services, ensuring high availability and scalability.",
+      "Delivered HIPAA-compliant applications, safeguarding sensitive patient data and ensuring regulatory adherence.",
+      "Integrated healthcare-specific APIs like FHIR and HL7, providing seamless interoperability across systems.",
+      // "Ensured compliance with ADA standards by developing websites meeting WCAG guidelines, enabling accessibility for all users.",
+      "Integrated CI/CD pipelines and implemented code quality checks using SonarQube, Veracode reducing deployment errors by 80%.",
+      "Mentored junior developers in ASP.NET Core, React, and best practices, improving team productivity and code quality.",
+      "Successfully launched a critical healthcare application in a compressed timeline, ensuring feature completeness and high quality.",
+      // "Documented all production promotion requests, including detailed descriptions, impact assessments, and rollback plans, ensuring compliance with change management policies.",
+      // "Collaborated with cross-functional teams to review and approve change requests before deployment."
+    ],
+  },
+  {
+    title: "Software Developer",
     company_name: "Texas A&M University",
     icon: TAMUSA,
     iconBg: "#FDFBFB",
-    date: "October 2022 - present",
+    date: "October 2022 - May 2024",
     points: [
       "Designed and developed a real-time location-tracking web application using ASP.NET, JavaScript, React.",
       "Integrated Google Maps JavaScript API and Google Maps Distance Matrix API to enhance the application's functionality.",
